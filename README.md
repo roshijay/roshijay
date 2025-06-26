@@ -4,27 +4,33 @@ I'm a data scientist and Harvard Data Science graduate student focused on using 
 
 ---
 
-**Projects I've built:**
-- [PULZ-AI Social Trend Analyzer]  
-  A metadata-based predictor of social video virality using Streamlit + BERT.
-- [Autism Behavioral Clustering]  
-  Unsupervised learning to track early developmental trajectories.
-- [ICU Anomaly Detection]  
-  Time-series ML to detect life-threatening events from patient vital signs in real time (95% accuracy).
-- [ASD Emotion Classification]  
-  BERT-based NLP to identify emotions in autism-related text, adapted for neurodiverse language.
+## Projects I've Built
+
+- [**PULZ-AI Social Trend Analyzer**](https://github.com/roshijay/PULZ-AI)  
+  A metadata-based predictor of social video virality using **Streamlit** + **BERT**.
+
+- [**Autism Trajectory Clustering**](https://github.com/roshijay/Autism-Traectory-Clustering)  
+  Unsupervised learning to track early developmental trajectories in children with autism.
+
+- [**ICU Anomaly Detection**](https://github.com/roshijay/Anomaly-Detection-in-ICU)  
+  Time-series ML to detect life-threatening events from patient vital signs in real time (**95% accuracy**).
+
+- [**ASD Emotion Recognition**](https://github.com/roshijay/ASD-Emotion-Recognition)  
+  BERT-based NLP to identify emotions in autism-related text, adapted for neurodiverse language patterns.
 
 ---
 
-**Current studies:** Master of Liberal Arts in Data Science, Harvard University
+## Current Studies
 
-**Coursework Highlights**
+**Master of Liberal Arts in Data Science**, Harvard University
+
+### Coursework Highlights
 
 | Course | Focus Areas |
 |--------|-------------|
 | **CSCI 101** – Foundations of Data Science & Engineering | Python, Git, data wrangling, intro to ML |
 | **STAT 109** – Intro to Statistical Modeling | Linear regression, inference |
-| **CSCI 184** – Data Science & AI | AI ethics, Bias Importance |
+| **CSCI 184** – Data Science & AI | AI ethics, bias importance |
 | **CSCI 63C** – Statistical Learning with R | Regularization, model tuning, diagnostics |
 | **CSCI 82** – Advanced Machine Learning | CNNs, RNNs, unsupervised learning |
 | **CSCI 83** – Fundamentals of Data Science | ML workflows, data cleaning, visualization |
@@ -35,28 +41,26 @@ I'm a data scientist and Harvard Data Science graduate student focused on using 
 
 ---
 
-### Technical Experience
+## Technical Experience
 
-#### Programming & Data Manipulation  
-Primarily work in **Python**, with additional experience in **R** for statistical modeling and **SQL** for querying and designing databases.
+### Programming & Data Manipulation  
+Proficient in **Python**, with additional experience in **R** for statistical modeling and **SQL** for database querying and design.
 
-#### Applied Machine Learning  
-Built and evaluated supervised models for classification tasks (e.g. ICU event detection), as well as unsupervised approaches like clustering for behavioral analysis. Projects involved **time-series modeling**, **dimensionality reduction**, and ensemble methods (e.g., **Random Forest**, **XGBoost**). Models were validated using metrics like **ROC AUC**, **F1 score**, and **cross-validation**.
+### Applied Machine Learning  
+Developed and evaluated supervised classification models (e.g., ICU event detection) and unsupervised clustering algorithms for behavioral analysis. Expertise in **time-series modeling**, **dimensionality reduction**, and ensemble methods like **Random Forest** and **XGBoost**. Models validated using **ROC AUC**, **F1 score**, and **cross-validation**.
 
-#### Natural Language Processing  
-Used **transformer-based models** such as **BERT** and **DistilBERT** to analyze text data, especially in contexts requiring sensitivity to neurodiverse communication patterns. Work includes **text classification**, **tokenization**, **NER**, and using word vectorization techniques like **TF-IDF**.
+### Natural Language Processing  
+Used transformer-based models such as **BERT** and **DistilBERT** for text classification, tokenization, named entity recognition (NER), and emotion detection—tailored for neurodiverse communication patterns.
 
-#### Data Engineering & Pipelines  
-Developed interactive ML dashboards using **Streamlit** and built lightweight data pipelines for preprocessing and real-time monitoring (e.g., anomaly detection systems). Strong experience with data wrangling using **pandas** in Python and **dplyr** in R.
+### Data Engineering & Pipelines  
+Built interactive ML dashboards using **Streamlit**, and developed lightweight data pipelines for real-time monitoring and preprocessing. Strong experience with **pandas** (Python) and **dplyr** (R).
 
-#### Databases & Modeling  
-Designed normalized relational databases for project needs, including ER modeling and optimization. Comfortable with both schema design and query writing in **SQL** .
+### Databases & Modeling  
+Designed normalized relational databases using ER modeling and SQL optimization techniques. Skilled in both schema design and query construction in **SQL**.
 
-#### Visualization & Communication  
-Created visualizations with tools like **Seaborn**, **Matplotlib**, and **Plotly** in Python, and **ggplot2** in R.  **ethical data storytelling**, especially when working with health-related or neurodiverse data. Coursework in **business rhetoric** strengthened technical-to-nontechnical communication.
+### Visualization & Communication  
+Created visualizations with **Seaborn**, **Matplotlib**, **Plotly**, and **ggplot2**. Emphasized **ethical data storytelling** in healthcare and neurodiverse contexts. Coursework in business rhetoric refined my ability to communicate technical insights effectively to non-technical audiences.
 
-#### Libraries, Tools & Platforms  
-Hands-on with **scikit-learn**, **Hugging Face Transformers**, basic **TensorFlow**/Keras models, and statistical packages like **caret** in R. Projects managed with **Git/GitHub** and developed in **Jupyter**, **RStudio**, and **VS Code**.
 
 ---
 
