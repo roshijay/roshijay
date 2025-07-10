@@ -6,14 +6,24 @@ I'm a data scientist and Harvard Data Science graduate student focused on using 
 
 ## Projects I've Built
 
+- [**ICU Real- time Anomaly Detection**](https://github.com/roshijay/Anomaly-Detection-in-ICU)  
+  A real-time Kafka-based system that processes 4,000 + ICU patient records and alerts
+  life-threatening anomalies in vital signs using rule-based detection and clinical feedback- inspired
+  prioritization.
+     - Streamed 4,000+ patient records using Kafka producer-consumer architecture
+     - Detected anomalies in vital signs (Pulse, SysBP) using customizable threshold-based rules
+     - Ranked alerts with a recommender system that simulates clinician feedback adaptation
+     - Achieved near real-time latency (~1s) between data ingestion and alert display
+     - Developed a modular, ML-ready pipeline for easy integration with predictive models
+
+*Earlier versions achieved 95% accuracy using traditional ML models;
+current version emphasizes interpretability and real-time deployment readiness.*
+
 - [**PULZ-AI Social Trend Analyzer**](https://github.com/roshijay/PULZ-AI)  
   A metadata-based predictor of social video virality using **Streamlit** + **BERT**.
 
 - [**Autism Trajectory Clustering**](https://github.com/roshijay/Autism-Traectory-Clustering)  
   Unsupervised learning to track early developmental trajectories in children with autism.
-
-- [**ICU Anomaly Detection**](https://github.com/roshijay/Anomaly-Detection-in-ICU)  
-  Time-series ML to detect life-threatening events from patient vital signs in real time (**95% accuracy**).
 
 - [**ASD Emotion Recognition**](https://github.com/roshijay/ASD-Emotion-Recognition)  
   BERT-based NLP to identify emotions in autism-related text, adapted for neurodiverse language patterns.
