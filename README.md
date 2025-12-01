@@ -19,9 +19,6 @@ I'm a data scientist and Harvard Data Science graduate student focused on using 
 *Earlier versions achieved 95% accuracy using traditional ML models;
 current version emphasizes interpretability and real-time deployment readiness.*
 
-- [**PULZ-AI Social Trend Analyzer**](https://github.com/roshijay/PULZ-AI)  
-  A metadata-based predictor of social video virality using **Streamlit** + **BERT**.
-
 - [**Autism Trajectory Clustering**](https://github.com/roshijay/Autism-Traectory-Clustering)  
   Unsupervised learning to track early developmental trajectories in children with autism.
 
