@@ -19,7 +19,7 @@ I'm a data scientist and Harvard Data Science graduate student focused on using 
 *Earlier versions achieved 95% accuracy using traditional ML models;
 current version emphasizes interpretability and real-time deployment readiness.*
 
-- [**Autism Trajectory Clustering**](https://github.com/roshijay/Autism-Traectory-Clustering)  
+- [**Autism Trajectory Clustering**](https://github.com/roshijay/Autism-Trajectory-Clustering)  
   Unsupervised learning to track early developmental trajectories in children with autism.
 
 - [**ASD Emotion Recognition**](https://github.com/roshijay/ASD-Emotion-Recognition)  
