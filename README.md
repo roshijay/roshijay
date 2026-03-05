@@ -1,6 +1,6 @@
 # Hi, I'm Roshini Jayasankar
 
-I'm a data scientist and Harvard Data Science graduate student focused on using AI/ML for meaningful, impactful solutions. While my primary focus is in healthcare, I'm open to exploring and contributing in other fields as well. I specialize in developing real-time anomaly detection systems and applying natural language processing to support diverse populations.
+Harvard Data Science graduate student focused on using AI/ML for meaningful, impactful solutions. While my primary focus is in healthcare, I'm open to exploring and contributing in other fields as well. I specialize in developing real-time anomaly detection systems and applying natural language processing to support diverse populations.
 
 ---
 
