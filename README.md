@@ -1,29 +1,56 @@
 # Hi, I'm Roshini Jayasankar
 
-Harvard Data Science graduate student focused on using AI/ML for meaningful, impactful solutions. While my primary focus is in healthcare, I'm open to exploring and contributing in other fields as well. I specialize in developing real-time anomaly detection systems and applying natural language processing to support diverse populations.
+Harvard Data Science graduate student(May 2026) using data to build 
+meaningful, impactful solutions across healthcare, 
+behavioral science, and e-commerce analytics. I specialize 
+in machine learning pipelines, NLP, and SQL-based analytics.
 
 ---
 
 ## Projects I've Built
 
-- [**ICU Real- time Anomaly Detection**](https://github.com/roshijay/Anomaly-Detection-in-ICU)  
-  A real-time Kafka-based system that processes 4,000 + ICU patient records and alerts
-  life-threatening anomalies in vital signs using rule-based detection and clinical feedback- inspired
-  prioritization.
-     - Streamed 4,000+ patient records using Kafka producer-consumer architecture
-     - Detected anomalies in vital signs (Pulse, SysBP) using customizable threshold-based rules
-     - Ranked alerts with a recommender system that simulates clinician feedback adaptation
-     - Achieved near real-time latency (~1s) between data ingestion and alert display
-     - Developed a modular, ML-ready pipeline for easy integration with predictive models
+- [**E-Commerce Repeat Purchase Propensity Model**](https://github.com/roshijay/Ecommerce-propensity-model)
+  End-to-end SQL and Tableau project identifying behavioral 
+  signals that predict repeat purchase behavior across 99,441 
+  customers and 100k orders.
+    - Engineered 5 behavioral signals using multi-level 
+      subqueries, window functions, and date arithmetic in SQLite
+    - Discovered voucher users return at 7x the rate of credit 
+      card users and home/lifestyle categories drive 15-25% 
+      repeat rates vs 3-6% for electronics
+    - Built a propensity scoring model identifying 4,109 
+      high-likelihood repeat buyers out of 97,442 customers
+    - Delivered findings in an interactive Tableau dashboard
+  
+  [Live Dashboard](https://public.tableau.com/views/ecommerce_propensity/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-*Earlier versions achieved 95% accuracy using traditional ML models;
-current version emphasizes interpretability and real-time deployment readiness.*
+- [**ICU Real-Time Anomaly Detection**](https://github.com/roshijay/Anomaly-Detection-in-ICU)
+  A real-time Kafka-based system that processes 4,000+ ICU 
+  patient records and alerts on life-threatening anomalies 
+  in vital signs using rule-based detection and clinician 
+  feedback-inspired prioritization.
+     - Streamed 4,000+ patient records using Kafka 
+       producer-consumer architecture
+     - Detected anomalies in vital signs (Pulse, SysBP) 
+       using customizable threshold-based rules
+     - Ranked alerts with a recommender system that simulates 
+       clinician feedback adaptation
+     - Achieved near real-time latency (~1s) between data 
+       ingestion and alert display
+     - Developed a modular, ML-ready pipeline for easy 
+       integration with predictive models
 
-- [**Autism Trajectory Clustering**](https://github.com/roshijay/Autism-Trajectory-Clustering)  
-  Unsupervised learning to track early developmental trajectories in children with autism.
+  *Earlier versions achieved 95% accuracy using traditional 
+  ML models; current version emphasizes interpretability 
+  and real-time deployment readiness.*
 
-- [**ASD Emotion Recognition**](https://github.com/roshijay/ASD-Emotion-Recognition)  
-  BERT-based NLP to identify emotions in autism-related text, adapted for neurodiverse language patterns.
+- [**Autism Trajectory Clustering**](https://github.com/roshijay/Autism-Trajectory-Clustering)
+  Unsupervised learning to track early developmental 
+  trajectories in children with autism.
+
+- [**ASD Emotion Recognition**](https://github.com/roshijay/ASD-Emotion-Recognition)
+  BERT-based NLP to identify emotions in autism-related 
+  text, adapted for neurodiverse language patterns.
 
 ---
 
@@ -48,25 +75,43 @@ current version emphasizes interpretability and real-time deployment readiness.*
 
 ---
 
-## Technical Experience
+## Technical Skills
 
-### Programming & Data Manipulation  
-Proficient in **Python**, with additional experience in **R** for statistical modeling and **SQL** for database querying and design.
+### Programming & Data Manipulation
+Proficient in **Python**, with additional experience in **R** 
+for statistical modeling and **SQL** for database querying, 
+schema design, and propensity modeling.
 
-### Applied Machine Learning  
-Developed and evaluated supervised classification models (e.g., ICU event detection) and unsupervised clustering algorithms for behavioral analysis. Expertise in **time-series modeling**, **dimensionality reduction**, and ensemble methods like **Random Forest** and **XGBoost**. Models validated using **ROC AUC**, **F1 score**, and **cross-validation**.
+### Applied Machine Learning
+Developed and evaluated supervised classification models and 
+unsupervised clustering algorithms for behavioral analysis. 
+Expertise in **time-series modeling**, **dimensionality 
+reduction**, and ensemble methods like **Random Forest** and 
+**XGBoost**. Models validated using **ROC AUC**, **F1 score**, 
+and **cross-validation**.
 
-### Natural Language Processing  
-Used transformer-based models such as **BERT** and **DistilBERT** for text classification, tokenization, named entity recognition (NER), and emotion detection—tailored for neurodiverse communication patterns.
+### Natural Language Processing
+Used transformer-based models including **BERT** and 
+**DistilBERT** for text classification, tokenization, named 
+entity recognition, and emotion detection — tailored for 
+neurodiverse communication patterns.
 
-### Data Engineering & Pipelines  
-Built interactive ML dashboards using **Streamlit**, and developed lightweight data pipelines for real-time monitoring and preprocessing. Strong experience with **pandas** (Python) and **dplyr** (R).
+### Data Engineering & Pipelines
+Built real-time ML pipelines using **Kafka** and interactive 
+dashboards using **Streamlit**. Experience with lightweight 
+preprocessing pipelines for monitoring and alerting systems.
 
-### Databases & Modeling  
-Designed normalized relational databases using ER modeling and SQL optimization techniques. Skilled in both schema design and query construction in **SQL**.
+### Databases & Analytics
+Designed normalized relational databases using ER modeling 
+and SQL optimization. Skilled in multi-table joins, window 
+functions, subqueries, and behavioral scoring models. 
+Visualization experience with **Tableau**, **Seaborn**, 
+**Matplotlib**, **Plotly**, and **ggplot2**.
 
-### Visualization & Communication  
-Created visualizations with **Seaborn**, **Matplotlib**, **Plotly**, and **ggplot2**. Emphasized **ethical data storytelling** in healthcare and neurodiverse contexts. Coursework in business rhetoric refined my ability to communicate technical insights effectively to non-technical audiences.
+### Communication
+Coursework in business rhetoric refined my ability to 
+translate complex technical findings into actionable 
+business recommendations for non-technical audiences.
 
 
 ---
