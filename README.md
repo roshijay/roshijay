@@ -1,6 +1,6 @@
 # Hi, I'm Roshini Jayasankar
 
-Harvard Data Science graduate student(May 2026) using data to build 
+Harvard Data Science graduate (May 2026) using data to build 
 meaningful, impactful solutions across healthcare, 
 behavioral science, and e-commerce analytics. I specialize 
 in machine learning pipelines, NLP, and SQL-based analytics.
